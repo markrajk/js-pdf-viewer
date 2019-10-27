@@ -1,4 +1,4 @@
-const url = 'https://github.com/markrajk/js-pdf-viewer/blob/master/docs/pdf.pdf';
+const url = 'docs/pdf.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
